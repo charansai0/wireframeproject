@@ -12,8 +12,11 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
+### HOME PAGE
 ![OUTPUT](https://github.com/charansai0/wireframeproject/blob/main/home.jpeg?RAW=TRUE)
+### GALLARY PAGE
 ![OUTPUT](https://github.com/charansai0/wireframeproject/blob/main/gallery.jpeg?RAW=TRUE)
+### CONTACT US PAGE
 ![OUTPUT](https://github.com/charansai0/wireframeproject/blob/main/contact.jpeg?RAW=TRUE)
 
 
