@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![OUTPUT](https://github.com/charansai0/wireframeproject/blob/main/home.jpeg?RAW=TRUE)
+![OUTPUT](https://github.com/charansai0/wireframeproject/blob/main/gallery.jpeg?RAW=TRUE)
+![OUTPUT](https://github.com/charansai0/wireframeproject/blob/main/contact.jpeg?RAW=TRUE)
 
 
 ## Result:
